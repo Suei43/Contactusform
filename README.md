@@ -1,4 +1,4 @@
-<h1>Contact Us Form with Bootstrap and Django</h1>
+<h1>Contact Us Form with Django and Bootstrap.</h1>
 This is a simple Contact Us form that has been created using Bootstrap and Django. This form allows users to submit their queries or feedback through the website.
 
 <h2>Getting Started</h2>
@@ -26,7 +26,7 @@ The Contact Us form has the following fields:
 <li>Email</li>
 <li>Subject</li>
 <li>Message</li>
-</ul><br/>
+</ul>
 Users can fill out the form and submit it by clicking on the "Submit" button. The data submitted through the form is stored in the database.
 
 <h2>Customization</h2>
